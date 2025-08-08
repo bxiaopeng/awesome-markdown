@@ -4,8 +4,8 @@
 
 
 
-![](./imgs/github.svg)表示 **开源软件** ，点击进入 **开源** 仓库；<br>
-![](./imgs/free.svg)表示 **免费** 使用，或者个人 **免费** ；<br>
+![](./imgs/github.svg)表示 **开源软件** ，点击名称可进入 **开源** 仓库；<br>
+![](./imgs/free.svg)表示 **免费** 使用，或者个人 **免费** ，或大部分功能 **免费**。<br>
 
 ----
 
@@ -15,12 +15,10 @@
 
 
 
-[TOC]
-
 ## 语法
 
-- Markdown
-- Common Mark
+- Markdown - 
+- CommonMark
 - GFM
 
 ## 编辑器
@@ -57,18 +55,18 @@
 
 > 办公场景用得到的
 
-### 协同
+### 文档协同
 
 - 飞书
 - 企微文档
 
 ### 幻灯片
 
-
+- [Slidev](https://github.com/slidevjs/slidev): 专为开发人员打造的幻灯片。![](./imgs/github.svg)
 
 ### 思维导图
 
-- Markup
+- [markmap](https://github.com/markmap/markmap) - 将 Markdown 可视化为思维导图。![](./imgs/github.svg)
 
 ### 终端
 
@@ -93,6 +91,8 @@
 
 
 ## 开发组件
+
+- [Milkdown](https://github.com/Milkdown/milkdown) - 一个插件驱动的 WYSIWYG Markdown 编辑器框架，灵感来自 Typora。![](./imgs/github.svg)
 
 ## 书籍
 
