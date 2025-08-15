@@ -276,4 +276,4 @@ Markdown 是一种简单易学的轻量级标记语言，它让写作变得轻�
 
 ## 书籍
 
-- [《了不起的 Markdown》](https://github.com/bxiaopeng/thegreatmarkdown) - 一本面向初学者和进阶用户的 Markdown 综合指南书籍。其核心特色在于全面、系统地介绍了 Markdown 的基础和高级语法，并深入探讨了相关的工具生态、工作流和应用实践。
+- [《了不起的 Markdown》](https://book.douban.com/subject/37478156/) - 一本系统介绍大语言模型时代写作通用语言的实践指南，以“排版技巧—应用场景—语法规范—工具赋能—知识管理—智能协作”为主线，深度整合 Markdown 核心语法、工具生态与 AI 应用。也是国内第一本全面介绍 Obsidian 功能和实践的书籍。
