@@ -20,11 +20,17 @@
 </p>
 
 
-Markdown 是一种简单易学的轻量级标记语言，它让写作变得轻松、高效。从简单的笔记、博客文章到复杂的项目文档，Markdown 都是你的理想工具。
+Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻松、高效，让你能够专注写作。从简单的笔记、博客文章到复杂的项目文档，甚至是知识管理，Markdown 都是你的理想工具。
+
+
+
+项目地址：https://github.com/bxiaopeng/awesome-markdown
+
+
 
 本项目精心整理了关于 **Markdown 的扩展语法、专业软件、高效工具和最佳实践**，旨在成为你一站式的 Markdown 资源库。
 
-欢迎通过 [Issue](https://github.com/bxiaopeng/awesome-markdown/issues)  或 Pull Request 推荐你喜欢的 Markdown 工具或资源，让我们一起完善这个项目！
+欢迎通过 [Issue](https://github.com/bxiaopeng/awesome-markdown/issues)  推荐你喜欢的 Markdown 工具或资源，让我们一起完善这个项目！
 
 ----
 
@@ -258,22 +264,8 @@ Markdown 是一种简单易学的轻量级标记语言，它让写作变得轻�
 
 - [Firecrawl](https://github.com/mendableai/firecrawl) - 一款 **API 服务**，能将任意网页抓取并转换为**干净的 Markdown** 或**结构化数据**。其核心特色在于**自动去除网页中的广告、导航栏**等干扰内容，提取出核心信息。它特别适合为 **AI 应用**提供高质量的数据，简化了数据处理流程。![](./imgs/github.svg)
 
-
-### 大模型平台
-
-> 支持生成和复制 Markdown 的大模型平台
-
-- DeepSeek
-- 豆包
-- 元宝
-- 通义千问
-- Claude
-- Grok
-- Gemini
-- ChatGPT
-
 ----
 
 ## 书籍
 
-- [《了不起的 Markdown》](https://book.douban.com/subject/37478156/) - 一本系统介绍大语言模型时代写作通用语言的实践指南，以“排版技巧—应用场景—语法规范—工具赋能—知识管理—智能协作”为主线，深度整合 Markdown 核心语法、工具生态与 AI 应用。也是国内第一本全面介绍 Obsidian 功能和实践的书籍。
+- [《了不起的 Markdown：大语言模型时代的通用语言》](https://book.douban.com/subject/37478156/) - 一本系统介绍大语言模型时代写作通用语言的实践指南，以“排版技巧—应用场景—语法规范—工具赋能—知识管理—智能协作”为主线，深度整合 Markdown 核心语法、工具生态与 AI 应用。也是国内第一本全面介绍 Obsidian 功能和实践的书籍。
