@@ -142,6 +142,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [Marp](https://github.com/marp-team/marp) - 一款基于 **Markdown** 的幻灯片制作生态系统，它通过 **Marpit** 框架和 **Marp CLI** 等工具，让开发者能够用纯文本快速创建美观的演示文稿。该工具支持代码高亮、数学公式、图像等，并可导出为 **PDF** 和 **PPTX** 等多种格式，非常适合技术分享、产品演示和教学。![](./imgs/github.svg)
 - [presenterm](https://github.com/mfontanini/presenterm) - 一款强大的命令行演示工具，允许用户用 **Markdown** 格式制作幻灯片，并在终端中直接运行。它支持代码高亮、图片、动图、**Mermaid** 图表、**LaTeX** 公式和自定义主题，并可将演示文稿导出为 **PDF** 和 **HTML** 格式，非常适合开发者和技术人员进行快速分享和演示。![](./imgs/github.svg)
 - [mdp](https://github.com/visit1985/mdp) - 一款轻量级的命令行演示工具，它能将 **Markdown** 文件直接在终端中转换为幻灯片。它支持基本的 **Markdown** 语法、颜色和简单的排版，并以水平线作为幻灯片分隔符，非常适合开发者和技术人员进行快速、简洁的命令行演示。![](./imgs/github.svg)
+- [deck](https://github.com/k1LoW/deck) - 一个命令行工具，可将 **Markdown** 格式的文档自动转换为 Google Slides 演示文稿，实现了内容与设计的解耦，并支持持续构建与实时预览。![](./imgs/github.svg)
 
 ### 便签与清单
 
@@ -177,6 +178,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [Crowbook](https://github.com/crowdagger/crowbook) - Crowbook - 一款用 **Rust** 语言编写的工具，专为小说和虚构文学而设计。它可以将 **Markdown** 格式的书籍转换为 **HTML、LaTeX/PDF** 和 **EPUB**。其核心特色在于**自动处理排版细节**，如标题、章节和目录的生成，让作者可以专注于创作内容，无需为复杂的格式问题分心。![](./imgs/github.svg)
 - [Koodo Reader](https://github.com/koodo-reader/koodo-reader) - 一款跨平台电子书阅读器，支持 **EPUB、PDF、Markdown** 等多种格式。其核心特色在于**云同步**、**AI 辅助阅读**和高度可定制的阅读界面。它允许用户在不同设备上无缝阅读，并提供强大的批注、高亮和笔记功能，是管理个人数字图书馆的理想工具。![](./imgs/github.svg)   ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 - [calibre](https://github.com/kovidgoyal/calibre) - 一款跨平台的开源电子书管理软件，被誉为电子书界的“瑞士军刀”。其核心功能包括电子书库管理、强大的**格式转换**、编辑和同步。它支持将 **Markdown**、PDF、Word 等多种文件格式转换成 **EPUB、MOBI** 等电子书格式。此外，它还内置了新闻下载和阅读器，可以轻松管理个人数字图书馆。![](./imgs/github.svg)   ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [lue](https://github.com/superstarryeyes/lue) - 一款为命令行爱好者设计的**终端电子书阅读器**，支持 EPUB、PDF、**Markdown** 等多种格式，并集成了文本转语音功能、智能进度保存和高度可定制的终端界面，提供高效且沉浸式的阅读体验。![](./imgs/github.svg)   ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 ### 模板
 
@@ -219,6 +221,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [Cherry Markdown Writer](https://github.com/Tencent/cherry-markdown) - 一款开箱即用的 **JavaScript Markdown** 编辑器。它轻量且易于扩展，支持在浏览器和 **Node.js** 环境中运行。其核心特色在于提供双栏编辑、纯预览和无工具栏等多种模式，并内置了图片缩放、表格图表、字体颜色和代码高亮等丰富功能，同时还具备**安全过滤和多主题选择**的特性，为开发者提供了灵活、功能强大的集成方案。![](./imgs/github.svg)
 - [md-editor-v3](https://github.com/imzbf/md-editor-v3) - 一款专为 **Vue 3** 设计的 **Markdown** 编辑器组件。它使用 **JSX** 和 **TypeScript** 开发，支持**实时预览、深色主题、Prettier 内容美化**以及图片粘贴和上传等丰富功能。其核心特色在于提供了独立的预览和目录组件，方便开发者在不同场景下灵活使用，是 Vue 3 生态中构建内容编辑功能的理想选择。![](./imgs/github.svg)
 - [markdown-it](https://github.com/markdown-it/markdown-it) - 一款快速且可扩展的 **Markdown** 解析器，由 **JavaScript** 编写。它旨在将 Markdown 文本高效地转换为 **HTML**。其核心特色在于遵循 **CommonMark** 规范，拥有极高的解析速度，并提供丰富的插件 **API**，使开发者能够轻松地扩展其功能，以满足各种复杂的 Markdown 渲染需求。![](./imgs/github.svg)
+- [OverType](https://github.com/panphora/overtype) - 一款轻量级的 **Markdown** 编辑器库，通过在预览层上叠加不可见的输入区域，实现了完美的所见即所得（WYSIWYG）体验，并提供了主题、快捷键和可选工具栏等功能。![](./imgs/github.svg)
 
 ## 转换工具
 
@@ -248,9 +251,10 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 > 在终端上使用 Markdown
 
-- [mdq](https://github.com/yshavit/mdq) - 一款强大的**命令行工具**，它允许你像 **jq** 处理 **JSON** 一样，快速查询和筛选 **Markdown** 文档中的特定内容。其核心特色在于提供简洁的查询语法，能够提取标题、代码块、链接、表格等任意元素，尤其适合用于**自动化工作流**和批量处理 Markdown 文档。![](./imgs/github.svg)
-- [Glow](https://github.com/charmbracelet/glow) - 一款命令行 **Markdown** 阅读器，它能在终端中以美观的样式渲染 Markdown 文件。其核心特色在于可以自动发现**本地或 Git 仓库**中的 Markdown 文件，并提供**模糊搜索和目录导航**功能，让用户无需离开终端，即可方便快捷地阅读和管理所有 Markdown 文档。![](./imgs/github.svg)
-- [nb](https://github.com/xwmx/nb) - 一款命令行和本地网络笔记应用，它以**纯文本格式**存储笔记，支持 **Markdown、Org、LaTeX** 等多种格式。其核心特色在于集成了 **Git 版本控制、加密**、强大的**书签管理**和 **Pandoc 转换**等功能，让用户可以在终端中高效地记录、管理和同步笔记，是极客风格的知识管理工具。![](./imgs/github.svg)
+- [mdq](https://github.com/yshavit/mdq) - 一款强大的**命令行工具**，它允许你像 **jq** 处理 **JSON** 一样，快速查询和筛选 **Markdown** 文档中的特定内容。其核心特色在于提供简洁的查询语法，能够提取标题、代码块、链接、表格等任意元素，尤其适合用于**自动化工作流**和批量处理 Markdown 文档。![](./imgs/github.svg)   ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Glow](https://github.com/charmbracelet/glow) - 一款命令行 **Markdown** 阅读器，它能在终端中以美观的样式渲染 Markdown 文件。其核心特色在于可以自动发现**本地或 Git 仓库**中的 Markdown 文件，并提供**模糊搜索和目录导航**功能，让用户无需离开终端，即可方便快捷地阅读和管理所有 Markdown 文档。![](./imgs/github.svg)  ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [nb](https://github.com/xwmx/nb) - 一款命令行和本地网络笔记应用，它以**纯文本格式**存储笔记，支持 **Markdown、Org、LaTeX** 等多种格式。其核心特色在于集成了 **Git 版本控制、加密**、强大的**书签管理**和 **Pandoc 转换**等功能，让用户可以在终端中高效地记录、管理和同步笔记，是极客风格的知识管理工具。![](./imgs/github.svg)   ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [doxx](https://github.com/bgreenwell/doxx) - 一款为终端设计的 `.docx` 文件查看器，它可以将 Word 文档的内容在命令行中美观渲染，并支持 **Markdown**、CSV、JSON 等多种格式导出，为开发者和命令行用户提供高效的文件浏览、搜索和数据提取体验。![](./imgs/github.svg)  ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
 ### 检查与辅助
 
