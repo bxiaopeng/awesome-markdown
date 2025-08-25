@@ -115,6 +115,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [ima.copilot](https://ima.qq.com/) - 腾讯推出的智能工作台产品，定位于“会思考的知识库”。它能基于全网信息源和用户自己的知识库进行智能问答，并提供智能写作辅助功能，如报告、作文和文案的生成。该工具支持 Markdown 语法，能够将生成的专业内容快速格式化，适用于高效文档创作和知识管理。![](./imgs/free.svg) ![](./imgs/all.svg)
 - [Notable](https://github.com/notable/notable) - 一款基于 **Markdown** 的笔记应用。它旨在提供一个功能强大、界面简洁的写作环境。该应用将笔记和附件直接存储在本地，方便同步和移植。其核心特色包括类似 **VS Code** 的 **Markdown** 编辑器（支持多光标、小地图等）、暗色主题、专注模式以及批量编辑和实时预览等功能，并支持无限嵌套的标签。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) 
 - [Khoj](https://github.com/khoj-ai/khoj) - 一个开源的个人 AI 应用，它能在本地或云端与大型语言模型（LLM）对话，并支持通过语义搜索从包括 **Markdown** 在内的多种文档中获取答案，可跨平台使用，并能创建定制化的 AI 代理。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/obsidian.svg)
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 一个开源的 **Notion** 替代品，它提供了集笔记、项目管理和数据库于一体的工作区。该工具由 **Flutter** 和 **Rust** 构建，注重数据隐私和本地控制，并原生支持 **Markdown** 语法。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg)
 
 #### 长篇写作
 
