@@ -89,6 +89,10 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 
 - [PanWriter](https://github.com/mb21/panwriter) - 一款专注于写作的桌面 **Markdown** 编辑器，其核心亮点在于深度集成 Pandoc，提供强大的导入导出功能，同时配备了一个能实时显示页面布局与分页效果的独特预览窗格。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
 
+- [Quillpad](https://github.com/quillpad/quillpad) - 一款免费开源的笔记应用，作为 Quillnote 的社区分支，它专注于用户隐私和数据本地化。该工具支持 **Markdown** 笔记、任务列表、提醒和文件附件，并可通过笔记本和标签进行整理，适用于需要美观、安全笔记体验的用户。![](./imgs/github.svg) ![](./imgs/android.svg)
+
+- [Ghostwriter](https://github.com/KDE/ghostwriter) - 一款适用于 Windows 和 Linux 的开源桌面 **Markdown** 编辑器，专注于提供无干扰的写作体验。它具备**实时预览**、**专注模式**（只高亮当前文本）和 **Hemingway 模式**（禁用删除键）等特色功能，还支持多种主题和将文档导出为 HTML、PDF 等格式，非常适合需要集中精力进行内容创作的用户。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+
 ### 笔记与知识管理软件
 
 > 将知识管理与 Markdown 相结合
@@ -136,11 +140,14 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [Confluence](https://www.atlassian.com/software/confluence) - Atlassian 旗下的团队协作与知识管理平台。它为团队提供共享工作空间，用于创建、组织和分享项目文档、知识库和会议纪要等。Confluence 支持基础的 **Markdown** 语法，但会在输入时实时转换为富文本，方便快速排版，特别适合企业内部的知识沉淀与文档管理。 ![](./imgs/web.svg)
 - [Boardmix](https://boardmix.com/)（博思白板）- 一款集多种创意工具于一体的在线协作白板。它在其文档功能中支持 **Markdown** 语法，方便用户进行快速排版，如创建标题、列表和代码块。用户还可以将文档导出为 **Markdown** 格式的文件，便于与 **Obsidian** 等其他应用互通，适用于团队头脑风暴、项目规划和知识整理。![](./imgs/free.svg) ![](./imgs/mac.svg)  ![](./imgs/windows.svg) ![](./imgs/web.svg)
 - [Jupyter](https://github.com/jupyter/jupyter) - 一个旨在为交互式计算开发开源软件和服务的非营利项目。其核心产品是 **Jupyter Notebook**，一个基于网页的应用。它通过**Markdown**格式的文本单元格，支持用户创建和分享包含**实时代码、数学公式（LaTeX）、可视化图表和解释性文本**的文档。这为数据科学、机器学习和科学计算提供了强大的交互式开发环境。![](./imgs/mac.svg)
+- [ONLYOFFICE DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - 一款开源的桌面办公套件，集成了文档、电子表格、演示文稿和 PDF 编辑器，并支持云端协作和多种格式转换，其中包括将文档转换为 **Markdown**。![](./imgs/github.svg)![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg)
+- [Seafile](https://github.com/haiwen/seafile) - 一款开源的企业级文件同步、共享和协作平台，旨在作为 Dropbox 和 Google Drive 的私有化替代方案。它提供文件同步、在线编辑和版本控制，并内置了支持 **Markdown** 的文档工具和知识库（Wiki）功能，专注于数据安全与用户隐私。![](./imgs/github.svg)
 
 ### 思维导图
 
 - [markmap](https://github.com/markmap/markmap) - 一款将 **Markdown** 文本实时转换为思维导图的工具，它通过解析 **Markdown** 固有的层级结构，自动生成交互式、美观的可视化图表。它可作为在线工具、命令行接口或插件在 **VS Code** 和 **Obsidian** 中使用，适合快速梳理思路、项目规划和知识结构化。![](./imgs/github.svg)
 - [XMind](https://xmind.com/) - 一款功能强大的思维导图和头脑风暴应用，支持多种思维结构，如鱼骨图、组织结构图和时间轴。它能够导入和导出 **Markdown** 格式的文件，方便用户将结构化的大纲文本转换为思维导图，或将思维导图内容整理成文档，适用于项目规划、知识整理和团队协作。![](./imgs/free.svg) ![](./imgs/mac.svg) ![](./imgs/windows.svg) ![](./imgs/linux.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
+- [Drawnix](https://github.com/plait-board/drawnix) - 一款基于 **Plait** 框架的开源白板工具，集成了思维导图、流程图和自由画等功能。它支持将 **Markdown** 文本转换为思维导图、将 **Mermaid** 语法转换为流程图，并提供无限画布和插件架构，适用于高效协作和可视化思考。![](./imgs/github.svg) ![](./imgs/web.svg)
 
 ### 幻灯片
 
@@ -158,6 +165,7 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [锤子便签](https://cloud.smartisan.com/apps/note/md.html) - 一款以其优雅设计和独特功能而闻名的笔记应用。它支持 **Markdown** 格式，方便用户进行快速排版，并支持插入图片实现图文混排。其特色功能包括将笔记内容生成精美长图并分享到社交平台，以及云端同步，适用于日常记录、灵感捕捉和社交分享。![](./imgs/free.svg)![](./imgs/web.svg) ![](./imgs/android.svg) ![](./imgs/iphone.svg)
 - [flomo](https://flomoapp.com/) - 一款专注于“卡片笔记”的笔记应用，其核心理念是“记录想法，而非整理想法”。它支持 **Markdown**，鼓励用户以简短、原子化的方式快速捕捉灵感，并通过标签和双向链接来组织和回顾内容。它非常适合进行碎片化知识管理和个人思考沉淀。![](./imgs/free.svg)![](./imgs/all.svg)
 - [滴答清单](https://dida365.com/webapp)- 一款功能强大的效率工具，它将待办事项、日历、习惯追踪和番茄工作法等功能集于一身。在任务详情中，该工具支持使用 **Markdown** 语法进行排版，方便用户创建结构化的笔记和备注，帮助高效地管理时间和任务。![](./imgs/free.svg)![](./imgs/all.svg)
+- [Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - 一款基于 **Markdown** 文件的自托管看板式任务管理工具，它通过现代化的 Web 界面来创建卡片、泳道和标签，并将任务以文件夹和文件的形式存储在本地。![](./imgs/github.svg)
 
 ## 网站生成与排版
 
@@ -231,6 +239,8 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [md-editor-v3](https://github.com/imzbf/md-editor-v3) - 一款专为 **Vue 3** 设计的 **Markdown** 编辑器组件。它使用 **JSX** 和 **TypeScript** 开发，支持**实时预览、深色主题、Prettier 内容美化**以及图片粘贴和上传等丰富功能。其核心特色在于提供了独立的预览和目录组件，方便开发者在不同场景下灵活使用，是 Vue 3 生态中构建内容编辑功能的理想选择。![](./imgs/github.svg)
 - [markdown-it](https://github.com/markdown-it/markdown-it) - 一款快速且可扩展的 **Markdown** 解析器，由 **JavaScript** 编写。它旨在将 Markdown 文本高效地转换为 **HTML**。其核心特色在于遵循 **CommonMark** 规范，拥有极高的解析速度，并提供丰富的插件 **API**，使开发者能够轻松地扩展其功能，以满足各种复杂的 Markdown 渲染需求。![](./imgs/github.svg)
 - [OverType](https://github.com/panphora/overtype) - 一款轻量级的 **Markdown** 编辑器库，通过在预览层上叠加不可见的输入区域，实现了完美的所见即所得（WYSIWYG）体验，并提供了主题、快捷键和可选工具栏等功能。![](./imgs/github.svg)
+- [Turndown](https://github.com/mixmark-io/turndown) - 是一款使用 **JavaScript** 编写的 HTML 到 Markdown 转换器。它旨在与 [CommonMark](http://commonmark.org/) 兼容，并且提供了许多选项来定制输出样式，例如标题、水平线、列表项目符号和代码块样式等。![](./imgs/github.svg)
+- [Markdown UI](https://github.com/BlueprintLabIO/markdown-ui) - 一个用于创建互动式用户界面的库，它允许你直接在 **Markdown** 文档中嵌入动态 UI 组件，如按钮、下拉菜单和表单。通过简单的 DSL 语法，它能够将静态文档即时转变为交互式体验，并且与任何前端框架兼容，特别适用于由 AI 生成内容和快速原型构建的场景。![](./imgs/github.svg)
 
 ## 转换工具
 
@@ -246,6 +256,8 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [Jupytext](https://github.com/mwouts/jupytext) - 一款旨在将 **Jupyter Notebook** 转换为纯文本格式（如 **Markdown、Python** 等）的开源工具。它让用户可以使用自己喜欢的编辑器编辑 Notebook，并通过 **Git** 进行版本控制。其核心功能在于支持将 Notebook 以“成对文件”形式保存，即 `.ipynb` 文件与纯文本文件同步更新，从而简化了多人协作和冲突解决。![](./imgs/github.svg)
 - [keep-it-markdown (KIM)](https://github.com/djsudduth/keep-it-markdown) - 一个开源的 Python 命令行脚本，它使用非官方的 Google Keep API，将你的 Keep 笔记批量转换为 **Markdown** 格式，并可导入至 Obsidian、Logseq、Notion 等多种笔记应用。![](./imgs/github.svg) ![](./imgs/terminal.svg)
 - [YARLE (Yet Another RLE)](https://github.com/akosbalasko/yarle) - 一款强大的开源工具，可将 Evernote 的 `.enex` 笔记文件完整地转换为可定制的 **Markdown** 文件，支持元数据、内部链接、附件和富文本，并能适配 Obsidian、Logseq 等多种笔记应用。![](./imgs/github.svg) ![](./imgs/terminal.svg)
+- [Trafilatura](https://github.com/adbar/trafilatura) - 一个基于 **Python** 的命令行工具和库，用于从网页中提取文本和元数据。它的主要功能包括网络爬取、下载、抓取和提取主要文本、元数据和注释。该工具能够将输出转换为多种常见格式，包括 **CSV**、**JSON**、**HTML**、**Markdown**、**TXT** 和 **XML**。![](./imgs/github.svg) ![](./imgs/terminal.svg)
+- [Zotero Better Notes](https://github.com/windingwind/zotero-better-notes) - 一款用于 Zotero 的插件，旨在优化文献管理中的笔记工作流。它支持直接粘贴 **Markdown** 内容、通过模板自动生成笔记，并能将笔记导出为 **Markdown**、Word、PDF 等多种格式，适用于需要高效整合文献与笔记的研究人员。![](./imgs/github.svg)
 
 ### 转成图片
 
@@ -278,6 +290,8 @@ Markdown 是一种简单易学的轻量级标记语言，它让排版变得轻�
 - [ReadmeAI](https://github.com/eli64s/readme-ai) - 一款由 **AI** 驱动的 **README** 文件自动生成工具。用户只需提供代码仓库的 URL 或路径，它就能利用语言模型自动生成**结构清晰、内容详细**的 README 文件。其核心特色在于支持多种平台和自定义样式，旨在**简化文档编写流程**，让开发者可以专注于代码，而非文档。![](./imgs/github.svg)
 
 - [Firecrawl](https://github.com/mendableai/firecrawl) - 一款 **API 服务**，能将任意网页抓取并转换为**干净的 Markdown** 或**结构化数据**。其核心特色在于**自动去除网页中的广告、导航栏**等干扰内容，提取出核心信息。它特别适合为 **AI 应用**提供高质量的数据，简化了数据处理流程。![](./imgs/github.svg)
+
+- [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - 一款基于 **Python** 的网络爬虫库，它利用大型语言模型（LLM）和图逻辑来为网站、文档和 XML 文件创建爬取管道。它最突出的一个功能是 **Markdownify**，能够将任何网页转换为干净、格式化的 **Markdown**。![](./imgs/github.svg)
 
 ----
 
